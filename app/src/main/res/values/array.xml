@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="array_name4">
+    <item>What is your pets name?</item>
+    <item>What was your childhood nickname?</item>
+    <item>Whos your childhood hero?</item>
+    <item>What town was your father born in?</item>
+    <item>What is your dream car?</item>
+</string-array>
+
+
+    <string-array name="array_name3">
+        <item>What primary school did you attend?</item>
+        <item>What is the middle name of your oldest child?</item>
+        <item>Whats your favorite food?</item>
+        <item>What town was your mother born in?</item>
+        <item>What is your dream job?</item>
+    </string-array>
+
+
+</resources>
